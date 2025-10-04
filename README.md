@@ -30,6 +30,17 @@
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=Yang-ByeongUn&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yang-ByeongUn&layout=compact&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000"
-           /> </div> 
+           />
+    </div> 
+    <div align="center">
+  <a href="https://solved.ac/ypd06426">
+    <img 
+      src="https://mazassumnida.wtf/api/v2/generate_badge?boj=ypd06426" 
+      alt="Solved.ac Profile" />
+  </a>
+</div>
+
+        
+
     </div>
     
